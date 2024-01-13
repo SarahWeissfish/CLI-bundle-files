@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LLs0z/53s+MGrkVIKvOc9hjKaXp79GMQQB95cJHpKsVQuWgZXVzDo5AgVEzAFxWqP6wiFz8N79Lx6F0a7Q+9Og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\שרה ויספיש\\Desktop\\proggraming\\cba\\cba\\cba.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\שרה ויספיש\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}
